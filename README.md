@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomTheDark
 - 👀 I’m interested in computer science, drawing
-- 🌱 I’m currently learning coding and drawing
+- 🌱 I’m currently learning coding in C#
 - 💞️ I’m collaborating on a Swiss FiveM server : [https://discord.gg/QB5SheVqd3](https://discord.gg/QB5SheVqd3)
 
 <!---
