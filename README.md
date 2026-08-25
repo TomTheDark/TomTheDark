@@ -24,5 +24,5 @@
 
 ---
 <p align="center">
-  <i>Let's connect and build something awesome!</i>
+  <i>Don't hesitate to contact me and build something awesome!</i>
 </p>
